@@ -1,0 +1,8 @@
+title: GaoXuesong.GitHub.io
+description: Xuesong's blog
+google_analytics: UA-71668522-1
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
