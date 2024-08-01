@@ -1,4 +1,4 @@
-## State Key Laboratory of Digital Multimedia Technology, Hisense Co., Ltd.
+## State Key Laboratory of Digital Multimedia Technology
 I am working in Hisense State Key Laboratory of Digital Multimedia Technology, and server as deputy director. I am engage in artificial intelligence technology, particularly in data science and deep learning research and development. And that I was 2015-2017 Microsoft MVP.
 I focus in on data science, knowledge graph, computer vision and deep learning algorithms, as well as the innovative research on urban computing, recommender system and Smart Home. Luckily I have published a number of machine learning algorithm patents.
 I have translated the book of Microsoft Azure Essentials - Azure machine learning into Chinese, which is written by Jeff Barnes pulished by Microsoft Press in 2018. Furthermore I have published a monograph of the Windows phone book titled for Windows Phone Mango development practices in 2011. 
